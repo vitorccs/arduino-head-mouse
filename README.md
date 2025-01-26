@@ -4,7 +4,7 @@ A USB mouse controlled by both head movement and voice, for disability-aid or fu
 ![Image](https://github.com/user-attachments/assets/c18d263a-5e33-46e4-bc62-8dd1bcd8d360)
 
 ## Recording
-https://github.com/user-attachments/assets/03d2a7a4-d2ef-4d99-b49c-7727de9f7848
+https://github.com/user-attachments/assets/e7d2481a-8fa1-44dd-9bdf-6bea67ef0fe4
 
 ## Description
 ![Image](https://github.com/user-attachments/assets/e63b57fd-b76c-400c-9920-b03a0221d645)
