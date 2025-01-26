@@ -5,6 +5,7 @@ A USB mouse controlled by both head movement and voice, for disability-aid or fu
 
 ## Recording
 https://github.com/user-attachments/assets/e7d2481a-8fa1-44dd-9bdf-6bea67ef0fe4
+
 You can make any sound since the goal is to serve the widest range of disabilities as possible
 
 ## Description
