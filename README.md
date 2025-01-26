@@ -2,6 +2,8 @@
 A USB mouse controlled by both head movement and voice, for disability-aid or fun purposes.
 
 ## Description
+![Image](https://github.com/user-attachments/assets/e63b57fd-b76c-400c-9920-b03a0221d645)
+
 The mouse cursor is controlled by head movement while any sound made in the microphone fires the left mouse click.
 There is also a potentiometer to adjust the microphone sensibility per your environment noise level.
 Additionally, there is a button to perform a left click and another button to reset the mouse cursor to center position.
@@ -93,6 +95,10 @@ void loop()
 }
 
 ```
+
+## Fritzing file
+The eletronic schematic was created in the [Fritzing](https://fritzing.org/) software and can be downloaded at
+* [arduino-head-mouse.zip](https://github.com/user-attachments/files/18549015/arduino-head-mouse.zip)
 
 ## Sources
 * https://github.com/tix-life/Colibrino
