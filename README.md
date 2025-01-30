@@ -1,19 +1,41 @@
 # Arduino Head Mouse
 A USB mouse controlled by both head movement and voice, for disability-aid or fun purposes.
 
-![Image](https://github.com/user-attachments/assets/c18d263a-5e33-46e4-bc62-8dd1bcd8d360)
+![Image](https://github.com/user-attachments/assets/2b2deffa-a7a4-469a-a05f-139366e560e1)
 
-## Recording
+## Possible 
+Alternative Communication Board
+<img src="https://github.com/user-attachments/assets/78531ada-6acd-46df-ba9c-3d172aaa7b74" wdith="400">
+
+Simple writing communication
+<img src="https://github.com/user-attachments/assets/c6fa1262-8d97-4d36-b806-e4416cdd2d64" wdith="400">
+
+Entertainment
+<img src="https://github.com/user-attachments/assets/fc564a63-64a6-4212-8c1b-81166d585eb9" wdith="400">
+
+Gaming
+
 https://github.com/user-attachments/assets/e7d2481a-8fa1-44dd-9bdf-6bea67ef0fe4
 
-You can make any sound since the goal is to serve the widest range of disabilities as possible
 
 ## Description
 ![Image](https://github.com/user-attachments/assets/e63b57fd-b76c-400c-9920-b03a0221d645)
 
-The mouse cursor is controlled by head movement while any sound made in the microphone fires the left mouse click.
-There is also a potentiometer to adjust the microphone sensibility per your environment noise level.
-Additionally, there is a button to perform a left click and another button to reset the mouse cursor to center position.
+The mouse cursor is controlled by head movement while any sound detected in the microphone makes the left mouse click.
++ There is a potentiometer to adjust the microphone sensibility per your environment noise level.
++ There is a button to perform a left click
++ Another button to reset the mouse cursor to center position
+
+## Mounting pictures
+Prototype board
+
+<img src="https://github.com/user-attachments/assets/ef08598f-56f1-4311-abb4-088d5b643873" width="320">
+
+Headset
+
+<img src="https://github.com/user-attachments/assets/08244144-f4fb-4dc9-874a-e39fc02a2c14" width="320">
+
+
 
 ## Components
 * 01 - Arduino Pro Micro 5v (Atmega32u4, 16 Mhz)
@@ -25,8 +47,6 @@ Additionally, there is a button to perform a left click and another button to re
 * 02 - Push buttons
 * 02 - Terminal connectors (KF301 5.0 3P)
 * 01 - Optionally, a (cheap) Headset to serve as a case for your project
-
-<img src="https://github.com/user-attachments/assets/762ec68a-59fc-4484-9efc-677a596a5ec5" width="320">
 
 
 ## About PlatformIO IDE
