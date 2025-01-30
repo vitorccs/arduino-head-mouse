@@ -3,20 +3,24 @@ A USB mouse controlled by both head movement and voice, for disability-aid or fu
 
 ![Image](https://github.com/user-attachments/assets/2b2deffa-a7a4-469a-a05f-139366e560e1)
 
-## Possible 
+## Possible use
 | Alternative Communication Board |
 | -- |
 | <img src="https://github.com/user-attachments/assets/78531ada-6acd-46df-ba9c-3d172aaa7b74" width="600"> |
+| https://www.cboard.io |
 
 | Simple writing communication |
 | -- |
 |<img src="https://github.com/user-attachments/assets/c6fa1262-8d97-4d36-b806-e4416cdd2d64" width="600"> |
+| (Notepad + Virtual Keyboard)
 
 | Entertainment (point & click games) |
 | -- |
 | <img src="https://github.com/user-attachments/assets/fc564a63-64a6-4212-8c1b-81166d585eb9" width="600"> |
+| https://store.steampowered.com/app/2377970/Cats_Hidden_Around_the_World/ |
 
 ## Recordings
+Note: enable the sound by clicking on the speaker icon from the video toolbar
 
 https://github.com/user-attachments/assets/613e4d65-5710-4287-ade9-1d59fe7d8d9c
 
@@ -28,10 +32,10 @@ https://github.com/user-attachments/assets/e7d2481a-8fa1-44dd-9bdf-6bea67ef0fe4
 ## Description
 ![Image](https://github.com/user-attachments/assets/e63b57fd-b76c-400c-9920-b03a0221d645)
 
-The mouse cursor is controlled by head movement while any sound detected in the microphone makes the left mouse click.
-+ There is a potentiometer to adjust the microphone sensibility per your environment noise level.
-+ There is a button to perform a left click
-+ Another button to reset the mouse cursor to center position
++ The mouse cursor is controlled by head movement while any sound detected in the microphone makes the left mouse click.
++ The potentiometer adjust the microphone sensibility per your environment noise level
++ The left button performs a left click (useful for assisting somebody)
++ The rght button resets the board (useful for fixing your head position)
 
 ## Mounting pictures
 Prototype board
