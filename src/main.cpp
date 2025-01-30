@@ -28,7 +28,7 @@ Potentiometer sensibilityPot(SENS_POT_PIN);
 MouseHandler mouseHandler(mpu, clickLed, resetLed, micSensor, sensibilityPot, VX_INVERT, VY_INVERT);
 PushButton leftClickBtn(BTN_CLICK_PIN);
 PushButton resetBtn(BTN_RESET_PIN);
-noDelay soundTimer;
+noDelay loopTimer;
 
 void setup()
 {
@@ -43,12 +43,12 @@ void setup()
   mouseHandler.setCalibration();
   mouseHandler.enableDebug(DEBUG);
 
-  soundTimer.setdelay(20);
+  loopTimer.setdelay(20);
 }
 
 void loop()
 {
-  if (!soundTimer.update())
+  if (!loopTimer.update())
   {
     return;
   }
