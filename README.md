@@ -4,16 +4,23 @@ A USB mouse controlled by both head movement and voice, for disability-aid or fu
 ![Image](https://github.com/user-attachments/assets/2b2deffa-a7a4-469a-a05f-139366e560e1)
 
 ## Possible 
-Alternative Communication Board
-<img src="https://github.com/user-attachments/assets/78531ada-6acd-46df-ba9c-3d172aaa7b74" wdith="400">
+| Alternative Communication Board |
+| -- |
+| <img src="https://github.com/user-attachments/assets/78531ada-6acd-46df-ba9c-3d172aaa7b74" width="600"> |
 
-Simple writing communication
-<img src="https://github.com/user-attachments/assets/c6fa1262-8d97-4d36-b806-e4416cdd2d64" wdith="400">
+| Simple writing communication |
+| -- |
+|<img src="https://github.com/user-attachments/assets/c6fa1262-8d97-4d36-b806-e4416cdd2d64" width="600"> |
 
-Entertainment
-<img src="https://github.com/user-attachments/assets/fc564a63-64a6-4212-8c1b-81166d585eb9" wdith="400">
+| Entertainment (point & click games) |
+| -- |
+| <img src="https://github.com/user-attachments/assets/fc564a63-64a6-4212-8c1b-81166d585eb9" width="600"> |
 
-Gaming
+## Recordings
+
+https://github.com/user-attachments/assets/613e4d65-5710-4287-ade9-1d59fe7d8d9c
+
+https://github.com/user-attachments/assets/5b56a279-1681-46fb-a604-73bcdcfd5af5
 
 https://github.com/user-attachments/assets/e7d2481a-8fa1-44dd-9bdf-6bea67ef0fe4
 
