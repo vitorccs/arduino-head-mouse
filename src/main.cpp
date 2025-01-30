@@ -10,7 +10,7 @@
 #include <MouseHandler.h>
 #include <Potentiometer.h>
 
-#define DEBUG true
+#define DEBUG false
 #define MIC_PIN A1
 #define LED_CLICK_PIN 5
 #define LED_RESET_PIN 6

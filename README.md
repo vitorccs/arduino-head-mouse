@@ -78,7 +78,7 @@ The PINs can be customized in the `main.cpp`
 #include <MouseHandler.h>
 #include <Potentiometer.h>
 
-#define DEBUG true
+#define DEBUG false
 #define MIC_PIN A1
 #define LED_CLICK_PIN 5
 #define LED_RESET_PIN 6
@@ -96,7 +96,7 @@ Potentiometer sensibilityPot(SENS_POT_PIN);
 MouseHandler mouseHandler(mpu, clickLed, resetLed, micSensor, sensibilityPot, VX_INVERT, VY_INVERT);
 PushButton leftClickBtn(BTN_CLICK_PIN);
 PushButton resetBtn(BTN_RESET_PIN);
-noDelay soundTimer;
+noDelay loopTimer;
 
 void setup()
 {
@@ -111,12 +111,12 @@ void setup()
   mouseHandler.setCalibration();
   mouseHandler.enableDebug(DEBUG);
 
-  soundTimer.setdelay(20);
+  loopTimer.setdelay(20);
 }
 
 void loop()
 {
-  if (!soundTimer.update())
+  if (!loopTimer.update())
   {
     return;
   }
@@ -133,7 +133,6 @@ void loop()
 
   mouseHandler.handle();
 }
-
 ```
 
 ## Fritzing file
