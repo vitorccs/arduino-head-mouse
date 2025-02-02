@@ -1,7 +1,8 @@
 # Arduino Head Mouse
-A USB mouse controlled by both head movement and voice, for disability-aid or fun purposes.
+USB mouse with cursor controlled by head movement and click made by sound/noise in a microphone - a project intended for disability-aid or fun purposes.
 
-![Image](https://github.com/user-attachments/assets/2b2deffa-a7a4-469a-a05f-139366e560e1)
+![Image](https://github.com/user-attachments/assets/b4f5f402-cdca-41a1-a580-e5c3fc2f3980)
+
 
 ## Possible use
 | Alternative Communication Board |
@@ -30,23 +31,13 @@ https://github.com/user-attachments/assets/e7d2481a-8fa1-44dd-9bdf-6bea67ef0fe4
 
 
 ## Description
-![Image](https://github.com/user-attachments/assets/e63b57fd-b76c-400c-9920-b03a0221d645)
+
+![Image](https://github.com/user-attachments/assets/aa2313ef-4b64-403a-be62-0686b8329115)
 
 + The mouse cursor is controlled by head movement while any sound detected in the microphone makes the left mouse click.
 + The potentiometer adjust the microphone sensibility per your environment noise level
-+ The left button performs a left click (useful for assisting somebody)
-+ The rght button resets the board (useful for fixing your head position)
-
-## Mounting pictures
-Prototype board
-
-<img src="https://github.com/user-attachments/assets/ef08598f-56f1-4311-abb4-088d5b643873" width="320">
-
-Headset
-
-<img src="https://github.com/user-attachments/assets/08244144-f4fb-4dc9-874a-e39fc02a2c14" width="320">
-
-
++ [Optional] the left button performs a left click (useful for assisting somebody)
++ [Optional] The right button briefly interrupts the board (useful for fixing your head position)
 
 ## Components
 * 01 - Arduino Pro Micro 5v (Atmega32u4, 16 Mhz)
@@ -57,7 +48,21 @@ Headset
 * 01 - 150 - 470Ω Resistor 
 * 02 - Push buttons
 * 02 - Terminal connectors (KF301 5.0 3P)
+* 01 - 22 AWG 6 Pairs Cable ([ref](https://www.amazon.com/FiveStarCable-Conductors-Alarm-Security-22-6/dp/B009PPKBKA?th=1))
 * 01 - Optionally, a (cheap) Headset to serve as a case for your project
+
+## Mounting pictures
+Prototype board
+
+<img src="https://github.com/user-attachments/assets/ef08598f-56f1-4311-abb4-088d5b643873" width="320">
+
+Position of accelerometer
+
+<img src="https://github.com/user-attachments/assets/08244144-f4fb-4dc9-874a-e39fc02a2c14" width="320">
+
+The Headset
+
+<img src="https://github.com/user-attachments/assets/9e040b8a-bcad-4712-9e2e-57550a50cafa" width="320">
 
 
 ## About PlatformIO IDE
@@ -137,7 +142,7 @@ void loop()
 
 ## Fritzing file
 The eletronic schematic was created in the [Fritzing](https://fritzing.org/) software and can be downloaded at
-* [arduino-head-mouse.zip](https://github.com/user-attachments/files/18549015/arduino-head-mouse.zip)
+* [arduino-head-mouse.zip](https://github.com/user-attachments/files/18631044/arduino-head-mouse.zip)
 
 ## Sources
 * https://github.com/tix-life/Colibrino
