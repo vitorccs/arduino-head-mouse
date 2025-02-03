@@ -3,6 +3,10 @@ USB mouse with cursor controlled by head movement and click made by sound/noise 
 
 ![Image](https://github.com/user-attachments/assets/b4f5f402-cdca-41a1-a580-e5c3fc2f3980)
 
+This project was also published in this Autodesk Instructable article:
+
+https://www.instructables.com/Arduino-Head-Mouse-With-Click-Controlled-by-Sound/
+
 
 ## Possible use
 | Alternative Communication Board |
