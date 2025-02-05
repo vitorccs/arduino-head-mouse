@@ -70,7 +70,7 @@ The Headset
 
 
 ## About PlatformIO IDE
-Platform IO is a plugin for Microsoft Virtual Studio Code. It is a more robust IDE compared to official Arduino IDE. It also allows us to easily create our own private libraries and use a more object oriented code.
+Platform IO is a plugin for Microsoft Visual Studio Code. It is a more robust IDE compared to the official Arduino IDE. It also allows us to easily create our own private libraries and use a more object oriented code.
 
 ## About the code
 The PINs can be customized in the `main.cpp` 
@@ -145,7 +145,7 @@ void loop()
 ```
 
 ## Fritzing file
-The eletronic schematic was created in the [Fritzing](https://fritzing.org/) software and can be downloaded at
+The electronic schematic was created in the [Fritzing](https://fritzing.org/) software and can be downloaded at
 * [arduino-head-mouse.zip](https://github.com/user-attachments/files/18631044/arduino-head-mouse.zip)
 
 ## Sources
